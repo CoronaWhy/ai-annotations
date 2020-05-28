@@ -1,0 +1,2 @@
+jupyter==1.0.0
+git+git://github.com/afparsons/doccano_api_client@master
